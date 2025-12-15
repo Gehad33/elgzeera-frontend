@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/elgzeera-frontend/static/css/main.a5d4c888.css",
+    "main.js": "/elgzeera-frontend/static/js/main.46958c58.js",
+    "static/js/488.c58a3513.chunk.js": "/elgzeera-frontend/static/js/488.c58a3513.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/elgzeera-frontend/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/elgzeera-frontend/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/elgzeera-frontend/index.html",
+    "main.a5d4c888.css.map": "/elgzeera-frontend/static/css/main.a5d4c888.css.map",
+    "main.46958c58.js.map": "/elgzeera-frontend/static/js/main.46958c58.js.map",
+    "488.c58a3513.chunk.js.map": "/elgzeera-frontend/static/js/488.c58a3513.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5d4c888.css",
+    "static/js/main.46958c58.js"
+  ]
+}
