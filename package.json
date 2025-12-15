@@ -22,7 +22,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "proxy": "http://elgzeera.runasp.net",
+  
   "eslintConfig": {
     "extends": [
       "react-app",
